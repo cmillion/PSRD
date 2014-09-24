@@ -1,5 +1,5 @@
 ###Planetary Software Reference Database (PSRD)
-An open source directory of citable planetary science software and code.
+Plans for an open source directory of citable planetary science software and code.
 
 ###Authors:
 * Chase Million
